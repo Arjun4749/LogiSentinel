@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+backend/data/state.json
+backend/data/.jwt_secret
+frontend/node_modules/
